@@ -30,7 +30,7 @@ input{
     color: #ffffff;
     width: calc(100%-100px);
 }
-butto{
+button{
     border: none;
     outline: none;
     padding: 10px;
